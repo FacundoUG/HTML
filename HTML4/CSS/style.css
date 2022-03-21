@@ -1,0 +1,31 @@
+/*Selector de etiqueta*/
+body{
+    background-color: #83D2A9
+}
+p{
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 25px;
+}
+h1{
+    background-color: #DAF7A6;
+    color:#6F593C;
+}
+/*Selector de etiqueta*/
+
+/*Selector de ID*/
+#Difcolor{
+    background-color: #DAF7A6;
+    color:#6F593C;
+}
+#otrocolor{
+    background-color: #4360E2;
+    color:#EFA748;
+}
+/*Selector de ID*/
+
+/*Selector de Clase*/
+.TextoDestacado{
+    color: #F62B09;
+    font-weight: bold;
+}
+/*Selector de Clase*/
