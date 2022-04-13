@@ -1,0 +1,27 @@
+
+.anclas{
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 5px;
+}
+
+.sec{
+    width: 400px;
+    height: 580px;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+
+.nav{
+    text-align: right;
+    background-color: brown;
+    border: 2px solid black;
+    width: 600px;
+    height: 60px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+}
